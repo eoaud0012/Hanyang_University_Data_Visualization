@@ -1,0 +1,6 @@
+﻿<!--<meta http-equiv="refresh" content="0; url=https://mail.hanyang.ac.kr/index.ds">-->
+<script>
+	//alert("한양메일");
+	//top.location.href="https://mail.hanyang.ac.kr/index.ds";	
+	top.location.href="http://www.hanyang.ac.kr/";	
+</script>
